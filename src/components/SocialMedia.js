@@ -11,7 +11,7 @@ const SocialMedia = () => {
     <ul className="home-about-social-links">
       <li className="social-icons">
         <a
-          href="https://github.com/luck804"
+          href="https://github.com/Luckydhiman2517"
           target="_blank"
           rel="noreferrer"
           className="icon-colour  home-social-icons"
