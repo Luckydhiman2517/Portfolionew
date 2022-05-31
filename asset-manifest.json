@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/portfolio-v1/static/css/main.f90474a2.chunk.css",
-    "main.js": "/portfolio-v1/static/js/main.c4b20300.chunk.js",
-    "main.js.map": "/portfolio-v1/static/js/main.c4b20300.chunk.js.map",
+    "main.js": "/portfolio-v1/static/js/main.9e2a425f.chunk.js",
+    "main.js.map": "/portfolio-v1/static/js/main.9e2a425f.chunk.js.map",
     "runtime-main.js": "/portfolio-v1/static/js/runtime-main.163c8ede.js",
     "runtime-main.js.map": "/portfolio-v1/static/js/runtime-main.163c8ede.js.map",
     "static/css/2.80e5e0f4.chunk.css": "/portfolio-v1/static/css/2.80e5e0f4.chunk.css",
@@ -12,7 +12,7 @@
     "static/css/2.80e5e0f4.chunk.css.map": "/portfolio-v1/static/css/2.80e5e0f4.chunk.css.map",
     "static/css/main.f90474a2.chunk.css.map": "/portfolio-v1/static/css/main.f90474a2.chunk.css.map",
     "static/js/2.3ee73225.chunk.js.LICENSE.txt": "/portfolio-v1/static/js/2.3ee73225.chunk.js.LICENSE.txt",
-    "static/media/Lucky_kumarNew (1).3e6bb6ba.pdf": "/portfolio-v1/static/media/Lucky_kumarNew (1).3e6bb6ba.pdf",
+    "static/media/Lucky_kumarCV.5449b253.pdf": "/portfolio-v1/static/media/Lucky_kumarCV.5449b253.pdf",
     "static/media/developer.23e159be.jpg": "/portfolio-v1/static/media/developer.23e159be.jpg",
     "static/media/image.24fccf15.png": "/portfolio-v1/static/media/image.24fccf15.png",
     "static/media/portfolio.24fccf15.png": "/portfolio-v1/static/media/portfolio.24fccf15.png",
@@ -23,6 +23,6 @@
     "static/css/2.80e5e0f4.chunk.css",
     "static/js/2.3ee73225.chunk.js",
     "static/css/main.f90474a2.chunk.css",
-    "static/js/main.c4b20300.chunk.js"
+    "static/js/main.9e2a425f.chunk.js"
   ]
 }
