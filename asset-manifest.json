@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/portfolio-v1/static/css/main.3870c71c.chunk.css",
+    "main.css": "/portfolio-v1/static/css/main.eca87670.chunk.css",
     "main.js": "/portfolio-v1/static/js/main.658ec892.chunk.js",
     "main.js.map": "/portfolio-v1/static/js/main.658ec892.chunk.js.map",
     "runtime-main.js": "/portfolio-v1/static/js/runtime-main.163c8ede.js",
@@ -10,7 +10,7 @@
     "static/js/2.3ee73225.chunk.js.map": "/portfolio-v1/static/js/2.3ee73225.chunk.js.map",
     "index.html": "/portfolio-v1/index.html",
     "static/css/2.80e5e0f4.chunk.css.map": "/portfolio-v1/static/css/2.80e5e0f4.chunk.css.map",
-    "static/css/main.3870c71c.chunk.css.map": "/portfolio-v1/static/css/main.3870c71c.chunk.css.map",
+    "static/css/main.eca87670.chunk.css.map": "/portfolio-v1/static/css/main.eca87670.chunk.css.map",
     "static/js/2.3ee73225.chunk.js.LICENSE.txt": "/portfolio-v1/static/js/2.3ee73225.chunk.js.LICENSE.txt",
     "static/media/Lucky_kumarCV.5449b253.pdf": "/portfolio-v1/static/media/Lucky_kumarCV.5449b253.pdf",
     "static/media/developer.23e159be.jpg": "/portfolio-v1/static/media/developer.23e159be.jpg",
@@ -22,7 +22,7 @@
     "static/js/runtime-main.163c8ede.js",
     "static/css/2.80e5e0f4.chunk.css",
     "static/js/2.3ee73225.chunk.js",
-    "static/css/main.3870c71c.chunk.css",
+    "static/css/main.eca87670.chunk.css",
     "static/js/main.658ec892.chunk.js"
   ]
 }
